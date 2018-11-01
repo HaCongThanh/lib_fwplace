@@ -1,17 +1,17 @@
 {
-  "name": "lib_fwplace",
-  "version": "1.0.1",
-  "authors": [
-    "HaCongThanh <hacongthanh.it.hubt@gmail.com>"
-  ],
-  "description": "Framgia Fwplace Lib",
-  "main": "/",
-  "keywords": [
-    "libfwplace"
-  ],
-  "license": "MIT",
-  "homepage": "https://github.com/HaCongThanh/lib_fwplace.git",
-  "ignore": [
-    "README.md"
-  ]
+    "name": "lib_fwplace",
+    "version": "1.0.1",
+    "authors": [
+        "HaCongThanh <hacongthanh.it.hubt@gmail.com>"
+    ],
+    "description": "Framgia Fwplace Lib",
+    "main": "/",
+    "keywords": [
+        "libfwplace"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/HaCongThanh/lib_fwplace.git",
+    "ignore": [
+        "README.md"
+    ]
 }
